@@ -1,0 +1,54 @@
+.article_goback{
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #45678b;
+    color: white;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.article_goback:hover {
+    background-color: #0056b3;
+  }
+
+.article_details_head{
+    color:seagreen;
+    font-family: 'Roboto';
+    font-size: 40px;
+}
+
+.artitle_details_title{
+    color:cadetblue;
+    font-size: 30px;
+    font-family: 'Roboto';
+}
+
+.article_details_content{
+    color:black;
+    font-family: 'Roboto';
+    font-weight: bold;
+    text-align: start;
+    font-size: 25px;
+    margin-left:30px;
+    margin-right: 30px;
+}
+
+.article_author{
+    color:darkgray;
+    font-family: 'Roboto';
+    font-size: 25px;
+}
+
+.article_author_value{
+    color:tomato;
+    font-size: 30px;
+    font-family: 'Roboto';
+}
+
+.article_thumbnail{
+    width:1000px;
+    height:400px;
+}
